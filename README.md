@@ -5,8 +5,8 @@
 
 # Why this project was made? 
 
-I lost almost all the time i had left trying to run and test the code on the devskiller platform.\
+I lost almost all the time I had left trying to run and test the code on the devskiller platform.\
 I left the test with the feeling that I could have done more.\
-This is why i took some time today and built this project to show the test (and a bit more).\
+This is why I took some time today and built this project to show the test (and a bit more).\
 
 Hope you Enjoy
